@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "trecho",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id_trecho": 32, "fk_id_bairro": 1, "extensao": 303.61, "material": "MPU" }, "geometry": { "type": "LineString", "coordinates": [ [ -60.017707210583865, -3.123211583458932 ], [ -60.020438514703663, -3.123230038216498 ] ] } },
+{ "type": "Feature", "properties": { "id_trecho": 34, "fk_id_bairro": 1, "extensao": 515.08, "material": "PVA" }, "geometry": { "type": "LineString", "coordinates": [ [ -60.021245910347233, -3.120397232930094 ], [ -60.016612341517416, -3.12034075433488 ] ] } },
+{ "type": "Feature", "properties": { "id_trecho": 35, "fk_id_bairro": 6, "extensao": 229.76, "material": "PVC" }, "geometry": { "type": "LineString", "coordinates": [ [ -60.026344037124829, -3.111054511912222 ], [ -60.024277104277417, -3.111036057154655 ] ] } },
+{ "type": "Feature", "properties": { "id_trecho": 36, "fk_id_bairro": 1, "extensao": 1055.43, "material": "CIM" }, "geometry": { "type": "LineString", "coordinates": [ [ -60.026325582367242, -3.117522904439161 ], [ -60.016830609599452, -3.117495222302812 ] ] } },
+{ "type": "Feature", "properties": { "id_trecho": 37, "fk_id_bairro": 1, "extensao": 211.31, "material": "MAG" }, "geometry": { "type": "LineString", "coordinates": [ [ -60.022625403475232, -3.125956728646898 ], [ -60.020724563445917, -3.125984410783248 ] ] } },
+{ "type": "Feature", "properties": { "id_trecho": 39, "fk_id_bairro": 1, "extensao": 1187.76, "material": "ACO" }, "geometry": { "type": "LineString", "coordinates": [ [ -60.027497019726525, -3.127984471313024 ], [ -60.016814604077659, -3.128247067420592 ] ] } }
+]
+}
